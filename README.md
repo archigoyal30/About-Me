@@ -36,7 +36,7 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archi243&show_icons=true&locale=en&layout=compact&theme=radical" alt="archigoyal30" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archigoyal30&show_icons=true&locale=en&layout=compact&theme=radical" alt="archigoyal30" />
 </p>
 
 <p>
