@@ -45,4 +45,4 @@
 
 <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=archigoyal30&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=archigoyal30&theme=radical&area=true&hide_border=true)
