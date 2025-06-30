@@ -4,15 +4,7 @@
 * I love building beautiful, pastel-coded, moodboard-style experiences
 * I love journaling, photography, and all things creative
 
-<a href="https://instagram.com/archi.g28">
-  <img align="left" alt="Archi Goyal on Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
-
-<a href="https://github.com/archigoyal30">
-  <img align="left" alt="Archi's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=archi243)
+![](https://visitor-badge.glitch.me/badge?page_id=archigoyal30)
 
 <br clear="left"/>
 
@@ -44,11 +36,11 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archi243&show_icons=true&locale=en&layout=compact&theme=radical" alt="archi243" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archi243&show_icons=true&locale=en&layout=compact&theme=radical" alt="archigoyal30" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archi243&theme=radical" alt="archi243" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archigoyal30&theme=radical" alt="archigoyal30" />
 </p>
 
 <br/>
