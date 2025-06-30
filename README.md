@@ -43,6 +43,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archigoyal30&theme=radical" alt="archigoyal30" />
 </p>
 
-<br/>
+<br clear="both"/>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=archigoyal30&theme=radical&area=true&hide_border=true)
